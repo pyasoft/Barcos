@@ -1,6 +1,8 @@
 # Aplicación de trimado de velas
 
-## Kotlin
-## Hilt
-## Jetpack compose
-## Room
+## Creada con el fin de realizar pruebas de:
+
+### Kotlin
+### Hilt
+### Jetpack compose
+### Room
