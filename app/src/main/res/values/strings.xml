@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcos</string>
+
+    <string name="textoList">Rumbo: %1$d - Viento: %2$d</string>
+</resources>
